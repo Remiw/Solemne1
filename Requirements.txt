@@ -1,0 +1,6 @@
+#Librerías necesarias para el análisis
+
+from google.cloud import bigquery
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
